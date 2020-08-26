@@ -1,2 +1,2 @@
 # pythonprogs
-My pythonprograms including coursera assignments.
+My python programs including coursera assignments.
